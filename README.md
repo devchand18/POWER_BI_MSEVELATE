@@ -70,7 +70,8 @@ This dashboard helps stakeholders understand the distribution and trends of yout
 
 ## Dashboard Preview
 
-(Add your dashboard screenshot here)
+<img width="1124" height="638" alt="Screenshot 2026-03-10 212746" src="https://github.com/user-attachments/assets/bc03c028-38dd-4fa1-b013-a51427ef206a" />
+
 
 ---
 
